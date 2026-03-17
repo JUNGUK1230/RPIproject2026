@@ -9,10 +9,10 @@
 -2차 중간 보고 : 2026.12.30 
 
 프로젝트 이름 : RPIproject
-팀인원 : 1명
+팀인원 : 3명
 팀 명 : andy, terry, boss
 
-팀장 할일 : boss
+팀장 : boss
 
 소프트웨어 담당 : terry
 
