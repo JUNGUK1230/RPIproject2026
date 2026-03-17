@@ -12,6 +12,8 @@
 팀인원 : 1명
 팀 명 : andy, terry, boss
 
-하드웨어
+팀장 할일 : boss
 
-소프웨어
+소프트웨어 담당 : terry
+
+하드웨어 담당 : andy
